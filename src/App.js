@@ -5,7 +5,7 @@ import SearchBar from './components/SearchBar';
 import PokemonGrid from './components/PokemonGrid';
 import Pagination from './components/Pagination';
 import Modal from './components/Modal';
-import Footer from './components/Footer'; // add this at top
+import Footer from './components/Footer'; 
 
 
 
